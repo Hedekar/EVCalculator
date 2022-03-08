@@ -10,6 +10,7 @@ Along with multiple smaller inputs:
 - current driving habits
 - which province the user resides
 - current gas prices
+
 It will then calculate the cost-premium (how much extra cost) each option would have.
 
 We will likely build this as an HTML page with some JavaScript running the life calculations.
