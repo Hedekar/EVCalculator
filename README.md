@@ -5,7 +5,8 @@ This website should take three main inputs:
 - current vehicle
 - possible gas vehicle purchase
 - possible EV purchase
-along with multiple smaller inputs:
+
+Along with multiple smaller inputs:
 - current driving habits
 - which province the user resides
 - current gas prices
