@@ -20,3 +20,5 @@ A key feature of this will need to be striking a balance between ease-of-use and
 If possible we should eventually add discounted cash flow analyses and carbon cost analyses.  It would be ideal to pull from Canada's national databases for fuel efficiencies and historic gas price trends.  It would also be ideal if we could forecast gas pricing for years to come rather than simply using today's price point.
 
 Some of the first elements will be deciding what javascript libraries we'll use for input from users.
+
+We'll likely want to use this dataset https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64
